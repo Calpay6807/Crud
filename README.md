@@ -8,5 +8,5 @@ HTML BOOTSTRAP REACT-HOOKLAR
 
 <h1>Proje Gif</h1>
 
-    <img src="./crudapp/src/components/images/crud.gif" />
+<img src="./crudapp/src/components/images/crud.gif">
 
